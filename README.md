@@ -1,15 +1,15 @@
 # CAFE ZARRAR POS
 
-## Pehli Baar Setup (Sirf Ek Baar)
-1. Yeh folder kisi bhi jagah rakhein (Desktop ya C: drive)
-2. **INSTALL.bat** pe double click karein
-3. Setup apne aap ho jaega + Desktop shortcut ban jaega
+## First-Time Setup (One Time Only)
+1. Keep this folder anywhere (Desktop or C: drive)
+2. Double-click **INSTALL.bat**
+3. Setup will happen automatically + a Desktop shortcut will be created
 
-## Roz Use Karna
-- Desktop par **"Cafe Zarrar POS"** shortcut pe double click karein
-- App apne aap khul jaega!
+## Daily Use
+- Double-click the **"Cafe Zarrar POS"** shortcut on your Desktop
+- The app will open automatically!
 
 ## Note
-- Node.js zaroor install hona chahiye: https://nodejs.org
-- Folder mat hatayein jahan rakha hai
-"# cafe-pos-system" 
+- Node.js must be installed: https://nodejs.org
+- Do not remove the folder from where you placed it
+"# cafe-pos-system"
